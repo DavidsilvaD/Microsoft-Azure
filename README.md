@@ -27,7 +27,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <h2>High-Level Deployment and Configuration Steps</h2>
 
 - Step 1 - Create Resources in Azure - Domain Controller VM (Windows Server 2022) and Client VM.
-- Step- 2- Set Domain Controller’s NIC private IP to be static and Ensure connection between client and Domain Controller. 
+- Step 2- Set Domain Controller’s NIC private IP to be static and Ensure connection between client and Domain Controller. 
 - Step 3- Install Active Directory On Domain Controller VM (Window Server 2022).
 - Step 4- Create an Admin and normal User account in Active Directory.
 - Step 5- Set up remote Desktop for non- administrative. 
